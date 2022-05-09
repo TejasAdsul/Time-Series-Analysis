@@ -1,1 +1,0 @@
-This is taken from the Kaggle Competition at https://www.kaggle.com/competitions/store-sales-time-series-forecasting. It contains information about the store sales of a particular company in Ecuador. The objective is to forecast daily sales for all its 54 stores and within 33 different product families.
